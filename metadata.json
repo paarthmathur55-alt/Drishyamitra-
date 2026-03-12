@@ -1,0 +1,7 @@
+{
+  "name": "Drishyamitra",
+  "description": "AI-powered photo management system with facial recognition, smart organization, and conversational search.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
